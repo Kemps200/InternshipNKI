@@ -1,0 +1,1 @@
+This contains the R-script used to generate all the graphs in my internship report and statistical analysis. Moreover, all raw data is added in seperate branches corresponding to individual experiments. This raw data is used to produce the graphs. 
